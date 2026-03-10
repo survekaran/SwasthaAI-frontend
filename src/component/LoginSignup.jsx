@@ -86,10 +86,11 @@ export default function SwasthyaAuth() {
         }
         .auth-title {
           margin-top: 1.25rem;
-          font-size: 1.75rem;
-          font-weight: 700;
+          font-family: system-ui, sans-serif;
+          font-size: 1.4rem;
+          font-weight: 600;
           color: #0f172a !important;
-          letter-spacing: -0.5px;
+          letter-spacing: 0;
         }
         .auth-subtitle {
           font-size: 0.85rem;
